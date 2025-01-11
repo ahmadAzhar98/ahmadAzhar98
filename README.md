@@ -2,7 +2,6 @@
 
 My name is Ahmad Azhar. I am pursuing masters in AI from LUMS 🎓, one of the most prestigious university across Pakistan.
 
-### About Me 😄
 I am a confident and faithful individual who tries to incorporate quality wether I am working out 🏋🏻 or If I am programming 💻.
 I don't get overwhelmed when it comes to completing my work, instead I try to adapt with a given deadline and my current skillset to produce a quality driven solution.
 My mind 🧠 is my greatest asset so I love to train it by reading books and solving maths and puzzles.
