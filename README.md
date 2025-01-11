@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 
 - 🎓 I’m currently pursuing MS in AI from LUMS.
 - 👯 I’m looking to collaborate with like minded and cooperative individuals to build our own product.
