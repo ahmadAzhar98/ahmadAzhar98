@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate with like minded and cooperative individuals to build our own product.
 - Favorite hobby : working out 🏋🏻.
 - 💬 Ask me about Fullstack development.
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ahmad-azhar10/) [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-success?logo=upwork)](https://www.upwork.com/freelancers/~01420a82403b6a1d38?mp_source=share)
+
   
 
 ## Tech Stack 🛠️ 
